@@ -1,4 +1,6 @@
 var katzDeli = [];
+var otherDeli = [];
+
 
 function currentLine(line){
   if(!line.length) {
